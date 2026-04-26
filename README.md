@@ -215,7 +215,7 @@ python app.py
 
 ### Open the Packet Tracer Simulation
 
-1. Open `network_topology.pkt` in Cisco Packet Tracer
+1. Open `ids project.pkt` in Cisco Packet Tracer
 2. The ACL is pre-configured on Router0
 3. Use the Simulation mode to observe packet flows
 
@@ -250,7 +250,7 @@ python app.py
 intrusion-detection-system-cisco-acl/
 │
 ├── app.py                    # Flask IDS Dashboard (Python)
-├── network_topology.pkt      # Cisco Packet Tracer simulation file
+├── ids project.pkt      # Cisco Packet Tracer simulation file
 ├── README.md                 # Project documentation
 │
 └── report/
